@@ -1,13 +1,13 @@
 //
-//  VGViewController.h
+//  VGConstants.m
 //  TicTacToe
 //
 //  Created by Varun Goyal on 8/17/13.
 //  Copyright (c) 2013 varungoyal. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import "VGConstants.h"
 
-@interface VGViewController : UIViewController
+@implementation VGConstants
 
 @end
